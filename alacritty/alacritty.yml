@@ -1,0 +1,66 @@
+items:
+  - colors:
+      name: 3024 (dark)
+      author: Chris Kempson
+      primary:
+        background: "#090300"
+        foreground: "#a5a2a2"
+      cursor:
+        text: "#090300"
+        cursor: "#a5a2a2"
+      normal:
+        black: "#090300"
+        red: "#db2d20"
+        green: "#01a252"
+        yellow: "#fded02"
+        blue: "#01a0e4"
+        magenta: "#a16a94"
+        cyan: "#b5e4f4"
+        white: "#a5a2a2"
+      bright:
+        black: "#5c5855"
+        red: "#db2d20"
+        green: "#01a252"
+        yellow: "#fded02"
+        blue: "#01a0e4"
+        magenta: "#a16a94"
+        cyan: "#b5e4f4"
+        white: "#f7f7f7"
+  - theme: 3024.dark
+colors:
+  # Default colors
+  primary:
+    background: '#292d3e'
+    foreground: '#959dcb'
+    bright_foreground: '#d0d0d0'
+
+  cursor:
+    text: '#292d3e'
+    cursor: '#959dcb'
+
+  # Normal colors
+  normal:
+    black: '#292d3e'
+    red: '#f07178'
+    green: '#c3e88d'
+    yellow: '#ffcb6b'
+    blue: '#82aaff'
+    magenta: '#c792ea'
+    cyan: '#89ddff'
+    white: '#d0d0d0'
+
+  # Bright colors
+  bright:
+    black: '#434758'
+    red: '#ff8b92'
+    green: '#ddffa7'
+    yellow: '#ffe585'
+    blue: '#9cc4ff'
+    magenta: '#e1acff'
+    cyan: '#a3f7ff'
+    white: '#ffffff'
+theme: Palenight
+
+font:
+  normal:
+    family: FiracodeNerd Font
